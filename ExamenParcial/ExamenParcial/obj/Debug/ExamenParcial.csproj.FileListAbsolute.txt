@@ -1,0 +1,6 @@
+c:\users\lab3\documents\visual studio 2013\Projects\ExamenParcial\ExamenParcial\bin\Debug\ExamenParcial.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\ExamenParcial\ExamenParcial\bin\Debug\ExamenParcial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ExamenParcial\ExamenParcial\bin\Debug\ExamenParcial.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\ExamenParcial\ExamenParcial\obj\Debug\ExamenParcial.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\ExamenParcial\ExamenParcial\obj\Debug\ExamenParcial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ExamenParcial\ExamenParcial\obj\Debug\ExamenParcial.pdb
